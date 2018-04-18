@@ -2,6 +2,8 @@
 
 This is the directory containing the core code used for my undergraduate honors thesis in Computer Science. I studied AlexNet's perception of the Poggendorff illusion and its ability to differentiate lines from non-lines.
 
+My thesis can be found at [thesis.pdf](./thesis.pdf)
+
 Instructions for running the code:
 
 The AlexNet implementation is in tensorflow and is taken from https://github.com/guerzh/tf_weights. They require an additional file, bvlc_alexnet.npy, which is too large to store on github; it can be downloaded from http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/.
